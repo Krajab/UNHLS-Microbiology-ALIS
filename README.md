@@ -47,3 +47,4 @@ The easiest way to install is using docker, follow instruction [here](https://gi
 Troubleshooting
 ----------------
 Ensure that you enable mod_rewrite, `sudo a2enmod rewrite` if you are using apache. This should solve the problem of routing failures.
+# UNHLS-Microbiology-ALIS
